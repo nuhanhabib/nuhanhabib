@@ -1,29 +1,99 @@
 <h1 align="center">Hi 👋, I'm Nuhan Habib</h1>
-<h3 align="center">Currently studying in Computer Science and Engineering at Brac University</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif">
+<h3 align="center">Web Developer · Data Analyst · Machine Learning & Computer Vision Research</h3>
+<p align="center">CSE Graduate, BRAC University · Dhaka, Bangladesh</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuhanhabib&label=Profile%20views&color=0e75b6&style=flat" alt="nuhanhabib" /> </p>
-
-- 🔭 I’m currently working on **my next project**
-
-- 🌱 I’m currently learning **Mern, React, JS, C and Python language**
-
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **16nuhan@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nuhan-habib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuhan-habib" height="30" width="40" /></a>
-<a href="https://fb.com/nuhanhabib.12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nuhanhabib.12" height="30" width="40" /></a>
-<a href="https://instagram.com/__nu_hu__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__nu_hu__" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nuhanhabib&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:16nuhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/nuhan-habib" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://nuhanhabib.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://nuhanhabib.vercel.app/Nuhan_Habib_CV.pdf" target="_blank"><img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV" /></a>
+  <a href="https://fb.com/nuhanhabib.12" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/nuhan_habib" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhanhabib&show_icons=true&locale=en&layout=compact" alt="nuhanhabib" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuhanhabib&show_icons=true&locale=en" alt="nuhanhabib" /></p>
+<img align="right" alt="Coding" width="380" src="./coding.gif" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuhanhabib&" alt="nuhanhabib" /></p>
+### 🧑‍💻 About me
+
+- 🎓 CSE graduate from **BRAC University**
+- 💼 Executive Officer Intern at **Infusions Tech**
+- 🔬 Research interests: **Computer Vision, Deep Learning, AI for Bangladesh**
+- 📊 I turn data into insights with **SQL, Python, Excel & Power BI**
+- 📱 I build web & mobile apps with **React, Next.js, Flutter & Kotlin**
+- 🏆 **Next Gen Ideathon 2025** finalist (Khabo Ki?)
+- 🎯 Open to **Research, Data Analytics & Software / Web Developer** roles
+- 📫 Reach me at **16nuhan@gmail.com**
+
+<br clear="right" />
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| 🍲 **[Khabo Ki?](https://github.com/nuhanhabib/khabo-ki)** | AI food-safety app for Bangladesh: scan any food to get a 0–100 safety score, freshness check, nutrition and a budget tip, in English & Bangla. Ideathon finalist. | Flutter · Gemini · Cloudflare Workers |
+| 😴 **[DozyPal](https://github.com/nuhanhabib/DozyPal)** | Open-source Android app that counts the reels you scroll on Facebook, Instagram, TikTok & YouTube Shorts, with daily limits, reports and "Scroll Battles". | Kotlin · Firebase · Accessibility Service |
+| 🔐 **[SafeVault](https://github.com/nuhanhabib/safevault)** · [Live](https://nuhanhabib.github.io/safevault/) | Zero-knowledge password manager PWA with on-device AES-256-GCM encryption and private sync through your own Google Drive. | JavaScript · Web Crypto · PWA |
+| 👥 **Crowd Density Estimation** | Undergraduate thesis: estimating crowd density from images with CSRNet++ and attention mechanisms. | Python · PyTorch · Computer Vision |
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+**Web & Mobile**<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+**Data & Machine Learning**<br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+**Tools**<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nuhanhabib&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nuhanhabib&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuhanhabib&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
