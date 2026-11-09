@@ -11,6 +11,7 @@
   <a href="https://linkedin.com/in/nuhan-habib" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://nuhanhabib.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://nuhanhabib.vercel.app/Nuhan_Habib_CV.pdf" target="_blank"><img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV" /></a>
+  <a href="https://orcid.org/0009-0009-6615-4196" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="https://fb.com/nuhanhabib.12" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://instagram.com/nuhan_habib" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
