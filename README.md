@@ -35,17 +35,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | What it does | Tech |
-|---|---|---|
-| 🍲 **[Khabo Ki?](https://github.com/nuhanhabib/khabo-ki)** | AI food-safety app for Bangladesh: scan any food to get a 0–100 safety score, freshness check, nutrition and a budget tip, in English & Bangla. Ideathon finalist. | Flutter · Gemini · Cloudflare Workers |
-| 😴 **[DozyPal](https://github.com/nuhanhabib/DozyPal)** | Open-source Android app that counts the reels you scroll on Facebook, Instagram, TikTok & YouTube Shorts, with daily limits, reports and "Scroll Battles". | Kotlin · Firebase · Accessibility Service |
-| 🔐 **[SafeVault](https://github.com/nuhanhabib/safevault)** · [Live](https://nuhanhabib.github.io/safevault/) | Zero-knowledge password manager PWA with on-device AES-256-GCM encryption and private sync through your own Google Drive. | JavaScript · Web Crypto · PWA |
-| 👥 **Crowd Density Estimation** | Undergraduate thesis: estimating crowd density from images with CSRNet++ and attention mechanisms. | Python · PyTorch · Computer Vision |
-
----
-
 ## 🛠 Tech Stack
 
 **Languages**<br>
